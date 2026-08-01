@@ -26,7 +26,7 @@
 
 ---
 
-## 🚀 Research Interests
+##  Research Interests
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning & Deep Learning
@@ -39,7 +39,7 @@
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ### ⚖️ LegalEase BD
 AI-powered legal assistant using LLMs and RAG to answer Bangladeshi legal questions.
