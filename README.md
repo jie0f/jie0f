@@ -1,6 +1,6 @@
 <div align="center">
 <img src="./banner-detailed.svg" alt="Mohammed Jieaf banner" width="100%"/>
-# Hi 👋, I'm Mohammed Jieaf
+ Hi 👋, I'm Mohammed Jieaf
 
 ### 💻 Software Engineer | 🤖 AI Researcher | 📄 IEEE Author | 🔬 Research Assistant @ IdeaXLab
 
