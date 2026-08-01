@@ -95,38 +95,6 @@ AI-powered legal assistant using LLMs and RAG to answer Bangladeshi legal questi
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jie0f&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jie0f&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jie0f&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏅 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=jie0f&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
-
----
 
 # 📫 Connect with Me
 
