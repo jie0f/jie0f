@@ -122,24 +122,7 @@ AI-powered legal assistant using LLMs and RAG to answer Bangladeshi legal questi
 
 ### ⭐ Thanks for visiting my profile!
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jie0f&theme=tokyo-night"/>
-## 🐍 Contribution Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/jie0f/jie0f/output/github-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/jie0f/jie0f/output/github-snake.svg">
-</picture>
-## 🌊 Ocean Snake
-
-<img src="https://raw.githubusercontent.com/jie0f/jie0f/output/github-snake-ocean.svg"/>
-## 👾 Pac-Man Contributions
-
-<img src="https://raw.githubusercontent.com/jie0f/jie0f/output/pacman-contribution-graph.svg"/>
-<img src="https://github-readme-stats.vercel.app/api?username=jie0f&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jie0f&layout=compact&theme=tokyonight"/>
-<img src="https://streak-stats.demolab.com?user=jie0f&theme=tokyonight"/>
 
 *"Building intelligent software with AI to solve real-world challenges."*
 
